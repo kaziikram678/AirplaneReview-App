@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999940395239",
+    "project_id": "airlinereview-adb1d",
+    "storage_bucket": "airlinereview-adb1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999940395239:android:088abfe634be5d07aa5242",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDcFHFIx5NUcds9SekIKc0rFtsi14XGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
