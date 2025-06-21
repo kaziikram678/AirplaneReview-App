@@ -30,3 +30,21 @@ This Flutter app allows users to share their flight experiences by uploading ima
 5. Run `flutter run`
 
 ## 📁 Folder Structure
+      /lib
+      ┣ /screens
+      ┃ ┣ login_screen.dart
+      ┃ ┣ register_screen.dart
+      ┃ ┗ share_experience_screen.dart
+      ┣ main.dart
+      ┗ auth_service.dart
+      
+## 🧪 To-Do / Improvements
+- Firebase Firestore to save submitted data
+- Image upload to Firebase Storage
+- Admin moderation panel
+- Real-time suggestions for airport/airline fields
+
+## 📸 UI Sample
+![Airline_review_4](https://github.com/user-attachments/assets/89cf92bf-bcd4-4498-beae-1ded003d239d)
+
+
